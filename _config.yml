@@ -2,7 +2,7 @@
 title: Baker School Action
 email: jamiefolsom@gmail.com
 description: ''
-baseurl: "/bakeraction/" # the subpath of your site, e.g. /blog/
+baseurl: "/bakeraction" # the subpath of your site, e.g. /blog/
 url: "http://jamiefolsom.github.io" # the base hostname & protocol for your site
 twitter_username: jamiefolsom
 github_username:  jamiefolsom
