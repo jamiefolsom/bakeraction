@@ -1,11 +1,15 @@
 # Site settings
 title: Baker School Action
-email: jamiefolsom@gmail.com
+email: sgriffen@mindspring.com
 description: ''
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bakeraction.org" # the base hostname & protocol for your site
-twitter_username: jamiefolsom
-github_username:  jamiefolsom
+twitter_username:
+github_username:  
 
 # Build settings
 markdown: kramdown
+
+prose:
+  rooturl: '_posts'
+  siteurl: "http://bakeraction.org"
