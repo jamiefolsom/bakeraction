@@ -2,6 +2,7 @@
 published: true
 category: Options
 title: Test
+categories: Options
 ---
 
 Welcome to StackEdit!
@@ -12,7 +13,6 @@ Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete
 
 ----------
 ![advent-unwrap.jpg](/_posts/advent-unwrap.jpg)
-
 Documents
 -------------
 
