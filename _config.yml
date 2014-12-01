@@ -24,6 +24,11 @@ prose:
           options:
             - name: "Options"
               value: "Options"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
       - name: "tags"
         field:
           element: "multiselect"
