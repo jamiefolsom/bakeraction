@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Space options for Baker School
-date: "2014-12-01"
 categories: update
 published: true
 category: Options

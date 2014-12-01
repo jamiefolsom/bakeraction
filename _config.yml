@@ -6,7 +6,14 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bakeraction.org" # the base hostname & protocol for your site
 twitter_username:
 github_username:  
+
 permalink: none
+
+# destination:      ./_site
+# source:           .
+
+# Handling Reading
+exclude:           ["templates", "Gemfile", "Gemfile.lock"]
 
 # Build settings
 markdown: kramdown
@@ -17,7 +24,7 @@ prose:
   media: '_posts'
   metadata:
     _posts:
-      - name: "category"
+      - name: "categories"
         field:
           element: "select"
           label: "Category"
