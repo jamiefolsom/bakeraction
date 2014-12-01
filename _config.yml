@@ -27,8 +27,8 @@ prose:
           element: "select"
           label: "Category"
           options:
-            - name: ""
-              value: ""
+            - name: "Options"
+              value: "Options"
       - name: "title"
         field:
           element: "text"
