@@ -1,6 +1,7 @@
 ---
 published: false
 category: Options
+title: Test
 ---
 
 Welcome to StackEdit!
