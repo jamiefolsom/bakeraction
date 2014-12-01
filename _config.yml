@@ -14,7 +14,7 @@ markdown: kramdown
 prose:
   rooturl: '_posts'
   siteurl: "http://bakeraction.org"
-  media: 'assets'
+  media: '_posts'
   metadata:
     _posts:
       - name: "date"
