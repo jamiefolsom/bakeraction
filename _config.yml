@@ -17,11 +17,6 @@ prose:
   media: '_posts'
   metadata:
     _posts:
-      - name: "date"
-        field:
-          element: "text"
-          label: "Date"
-          value: ""
       - name: "category"
         field:
           element: "select"
@@ -29,15 +24,6 @@ prose:
           options:
             - name: "Options"
               value: "Options"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
       - name: "tags"
         field:
           element: "multiselect"
